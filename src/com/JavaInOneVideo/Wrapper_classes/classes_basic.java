@@ -78,5 +78,8 @@ public class classes_basic {
         System.out.println(b == x); //objects
         System.out.println(b.equals(c)); //objects
 
+        // Add a comment inside the main method of classes_basic.java
+        // This comment is added by the developer to request a comment in the main method.
+
     }
 }
