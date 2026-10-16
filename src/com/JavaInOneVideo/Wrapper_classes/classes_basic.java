@@ -36,6 +36,7 @@ public class classes_basic {
        //Autoboxing :means automatically converting a primitive data type into its corresponding wrapper class object.
 
        Wrapper class object can hold null;
+       // Comment added by the AI developer agent
         // Comment added by the AI developer agent
        Integer a = null; //No error
        int a = null;  //error
