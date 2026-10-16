@@ -36,6 +36,8 @@ public class classes_basic {
        //Autoboxing :means automatically converting a primitive data type into its corresponding wrapper class object.
 
        Wrapper class object can hold null;
+       // Comment added by the AI developer agent
+        // Comment added by the AI developer agent
        Integer a = null; //No error
        int a = null;  //error
 
@@ -77,6 +79,9 @@ public class classes_basic {
         int y = 2;
         System.out.println(b == x); //objects
         System.out.println(b.equals(c)); //objects
+
+        // Add a comment inside the main method of classes_basic.java
+        // This comment is added by the developer to request a comment in the main method.
 
     }
 }
